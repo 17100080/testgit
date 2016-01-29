@@ -1,11 +1,20 @@
+
+<<<<<<< HEAD
+=======
+
 Finance team
 Charles
 Lisa
 John
 
 
+
+>>>>>>> marketing
+
 Marketing team
 Collins
 Linda
 Patricia
 Morgan
+amanda
+
